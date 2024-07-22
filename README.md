@@ -1,6 +1,6 @@
 ### Hi there 👋 ![M.Abu Bakar](https://github.com/mabubakarsiddiq11/mabubakarsiddiq11/blob/main/LinkedIn%20banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F70000&width=435&lines=Front-End+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F70000&width=435&lines=Front-End+Developer!;+I%E2%80%99m+currently+learning+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Front-End Developer
 - 🌱 I’m currently learning MERN Stack Developer
