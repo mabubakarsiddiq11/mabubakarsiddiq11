@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Front-End Developer
 - 🌱 I’m currently learning MERN Stack Developer
 - 👯 We are looking to collaborate on mabubakarsiddiq11@gmail.com
-- 💬 Ask me about : Web Development
+- 💬 Ask me about: Web Development
 - 📫 How to reach me: mabubakarsiddiq11@gmail.com
 
 ### 🔆 Tech Stack!
